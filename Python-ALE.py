@@ -41,7 +41,7 @@
 # exo5()
 #
 # #----------------------------
-# #!!!
+#
 # def exo6():
 #     i = input("Give me a number between 10 and 20 : ")
 #
@@ -49,8 +49,10 @@
 #         print("Good")
 #     elif int(i) > int(20):
 #         print("Lesser")
+#         exo6()
 #     elif int(i) < int(10):
 #         print("Greater")
+#         exo6()
 #
 # exo6()
 #

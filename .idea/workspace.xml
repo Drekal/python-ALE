@@ -7,18 +7,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-ALE.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-ALE.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +21,8 @@
       <file leaf-file-name="Python-ALE.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python-ALE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+            <state relative-caret-position="48">
+              <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -69,8 +58,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="762" />
-    <option name="width" value="925" />
+    <option name="x" value="644" />
+    <option name="width" value="1043" />
     <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,7 +148,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="0" width="1429" height="1017" extended-state="0" />
+    <frame x="644" y="0" width="1043" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992035" />
@@ -169,7 +158,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3287827" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15558802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21668363" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -302,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-ALE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        <state relative-caret-position="48">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
         </state>
       </provider>
     </entry>
